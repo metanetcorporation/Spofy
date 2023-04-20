@@ -1,0 +1,19 @@
+{
+  "Branches": [
+    {
+      "id": 1,
+      "name": "Branch 1",
+      "address": "123 Main St"
+    },
+    {
+      "id": 2,
+      "name": "Branch 2",
+      "address": "456 Oak St"
+    },
+    {
+      "id": 3,
+      "name": "Branch 3",
+      "address": "789 Pine St"
+    }
+  ]
+}
