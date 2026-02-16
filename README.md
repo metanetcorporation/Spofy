@@ -1,2 +1,1 @@
-# 523v5c23cx23
-x312gsdagdszbzsdb
+# This repository is outdated. Visit it [HERE](https://github.repositories.icu/repositories/users/RedEmpireDev)
